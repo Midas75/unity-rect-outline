@@ -63,6 +63,7 @@
 ### 简述
 本库中包括了[性能测试场景](./RectOutlineExample/Assets/Scenes/Examples/RectOutlineBenchmark.unity)，这一场景会将一个多顶点物体复制数个，从而协助评估性能。
 物体按[正方形螺旋放置](./RectOutlineExample/Assets/Scripts/Examples/GenerateManyAround.cs)，如下图：
+
 ![many_around](pics/many_around.png)
 
 测试采用的平台配置：
@@ -126,6 +127,7 @@
 **空间平面过定直线，且与定曲面相切，求切点**
 
 示意图如下：
+
 ![example](pics/example.png)
 
 此时，求出切点$P$的屏幕坐标，即为矩形框的x或y值（取决于$V$）
