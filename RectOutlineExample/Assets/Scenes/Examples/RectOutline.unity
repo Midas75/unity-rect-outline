@@ -607,7 +607,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce5822bc1e1046d47ac8ad8350b24bab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  borderType: 0
+  borderType: 3
   targetTag: ObjectDetection
   drawUI: 1
   cam: {fileID: 0}
